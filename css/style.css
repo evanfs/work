@@ -249,6 +249,7 @@ img.twoColImage {
 
   .projectCard {
     width: 100%;
+    margin-bottom: 15px;
   }
 
 
@@ -261,4 +262,8 @@ img.twoColImage {
     .brand {
         padding: 40px 0;
     }
+
+    .footerWrapper {
+      margin-top: 20px;
+      padding: 20px 0 40px 0;
   }
