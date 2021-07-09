@@ -207,6 +207,14 @@ img.twoColImage {
   margin-bottom:33px;
 }
 
+.imgTileRow {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom:33px;
+}
+
 .projectCard {
   width: 46%;
 }
@@ -243,12 +251,14 @@ img.twoColImage {
     width: 100%;
   }
 
+
+
   @media only screen and (max-width: 500px) {
     h1 {
       font-size: 34px;
     }
 
     .brand {
-        padding: 33px 0;
+        padding: 40px 0;
     }
   }
