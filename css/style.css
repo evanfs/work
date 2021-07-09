@@ -247,4 +247,8 @@ img.twoColImage {
     h1 {
       font-size: 34px;
     }
+
+    .brand {
+        padding:49px 0
+    }
   }
