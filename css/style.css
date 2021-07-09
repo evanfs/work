@@ -243,12 +243,12 @@ img.twoColImage {
     width: 100%;
   }
 
-  @media only screen and (max-width: 480px) {
+  @media only screen and (max-width: 500px) {
     h1 {
       font-size: 34px;
     }
 
     .brand {
-        padding:49px 0
+        padding: 33px 0;
     }
   }
